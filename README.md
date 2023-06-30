@@ -34,7 +34,7 @@ Follow these steps to install and set up the gaming store project locally:
    Open your web browser and visit http://localhost:8000/ to access the running application.
    
 ## Screenshot of website's home page:
-![Home Page]
+![Home Page](/Users/douwsteyn/Dropbox/DS22120005924 (1)/3 - Data Science, Algorithms and Advanced Software Engineering/L3T06/Screenshot 2023-06-30 at 16.00.17.png)
 
 ## Credits
 I would like to thank the team at HyperionDev for educating me on how to use Github to showcase my work.
